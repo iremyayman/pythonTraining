@@ -14,3 +14,7 @@ runfile('C:/Users/irem/.spyder-py3/SimpleStockPrice.py', wdir='C:/Users/irem/.sp
 !git add "PythonExercisesForDataScience.py"
 !git commit -m "My commit"
 !git push origin master
+
+## ---(Wed Oct 13 14:49:15 2021)---
+runcell(0, 'C:/Users/irem/untitled0.py')
+streamlit run DNACounter.py
